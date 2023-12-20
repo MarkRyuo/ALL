@@ -8,13 +8,26 @@
 </head>
 <body>
 
-  <div class="container mx-4 p-5">
+  <div class="container mx-4 p-5 border border-primary">
+
   <form action="C-1.php" method="post">
     <label for="quantity">Quantity</label>
-    <input type="text" name="quantity" required>
-    
+    <input type="text" name="quantity" required> <br>
+  <br>
+    <label for="price">Price</label>
+    <input type="text" name="price" required> <br>
+  <br>
+    <input type="submit" value="Add" class="btn btn-primary">
+
   </form>
   </div>
   
 </body>
 </html>
+
+<?php 
+
+$quantity = $_POST["quantity"] ;
+
+
+?>
