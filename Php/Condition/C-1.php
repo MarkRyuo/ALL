@@ -7,6 +7,14 @@
   <title>Condition</title>
 </head>
 <body>
+
+  <div class="container mx-4 p-5">
+  <form action="C-1.php" method="post">
+    <label for="quantity">Quantity</label>
+    <input type="text" name="quantity" required>
+    
+  </form>
+  </div>
   
 </body>
 </html>
