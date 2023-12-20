@@ -25,8 +25,8 @@
 <?php 
 
 $quantity = $_POST["quantity"] ;
-$price = $$_POST["price"] ;
-$total = null;
+$price = $_POST["price"] ;
+$total = null ;
 
 $total = $quantity * $price ;
 
