@@ -11,6 +11,9 @@
 <form action="C-2.php" method="post" class="container-sm">
   <label for="quantity">Quantity</label>
   <input type="text" name="quantity" required>
+
+  <label for="price">Price</label>
+  <input type="text" name="price">
 </form>
   
 </body>
