@@ -39,5 +39,7 @@ elseif ($quantity == 0) {
   echo "Your {$quantity} is Not valid" ;
 }
 
-
+else {
+  echo "Your " ;
+}
 ?>
