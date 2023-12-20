@@ -29,6 +29,7 @@
 
 $quantity = $_POST["quantity"] ;
 $price = $_POST["price"] ;
+$total = null; 
 
 
 ?>
