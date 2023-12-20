@@ -8,7 +8,7 @@
 </head>
 <body>
 
-  <div class="container mx-4 p-5 border border-primary">
+  <div class="container-sm mx-4 p-5 border border-primary">
 
   <form action="C-1.php" method="post">
     <label for="quantity">Quantity</label>
