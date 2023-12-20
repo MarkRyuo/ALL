@@ -30,6 +30,6 @@ $total = null;
 
 $total = $quantity * $price ;
 
-
+echo $total
 
 ?>
