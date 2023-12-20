@@ -31,5 +31,9 @@ $quantity = $_POST["quantity"] ;
 $price = $_POST["price"] ;
 $total = null; 
 
+if ($quantity >= 10) {
+  echo "Not enough" ;
+}
+
 
 ?>
