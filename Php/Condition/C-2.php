@@ -21,3 +21,9 @@
   
 </body>
 </html>
+
+<?php 
+
+$quantity = $_POST["quantity"] ;
+
+?>
