@@ -35,5 +35,9 @@ if ($quantity >= 10) {
   echo "Not enough" ;
 }
 
+elseif ($quantity == 0) {
+  echo "Your {$quantity} is Not valid" ;
+}
+
 
 ?>
