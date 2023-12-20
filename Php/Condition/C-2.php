@@ -13,7 +13,7 @@
   <input type="text" name="quantity" required>
 
   <label for="price">Price</label>
-  <input type="text" name="price">
+  <input type="text" name="price" required>
 </form>
   
 </body>
