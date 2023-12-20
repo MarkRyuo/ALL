@@ -7,6 +7,10 @@
   <title>Documents </title>
 </head>
 <body>
+
+<form action="C-2.php" method="post" class="container-sm">
+  <label for="quantity">Quantity</label>
+</form>
   
 </body>
 </html>
