@@ -40,6 +40,8 @@ elseif ($quantity == 0) {
 }
 
 else {
-  echo "Your " ;
+  $total = $quantity * $price ;
+
+  echo "Your Total is {$total}." ;
 }
 ?>
