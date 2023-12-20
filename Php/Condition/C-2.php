@@ -15,6 +15,7 @@
   <label for="price">Price</label>
   <input type="text" name="price" required>
 <br>
+  <input type="submit" value="Add" class="btn btn-success">
 
 </form>
   
