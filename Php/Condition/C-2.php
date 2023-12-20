@@ -10,6 +10,7 @@
 
 <form action="C-2.php" method="post" class="container-sm">
   <label for="quantity">Quantity</label>
+  <input type="text" name="quantity" required>
 </form>
   
 </body>
